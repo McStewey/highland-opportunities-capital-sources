@@ -1,0 +1,4 @@
+.ratio-grid.simple > div:last-child {
+  grid-column: auto;
+}
+
